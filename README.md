@@ -1,4 +1,4 @@
-# Image-Processing and Computer Vision
+# Image Processing and Computer Vision
 Image Processing and Computer Vision tasks using OpenCV Python: motion tracking, face detection, tumor segmentation.
 
 * **1. [Face Detection](https://github.com/abeermohamed1/Image-Processing/blob/master/faceDetection.py):**
